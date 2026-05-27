@@ -192,6 +192,16 @@ section {
 
     box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
 }
+.third-btn {
+    background: var(--primary-color);
+}
+.third-btn:hover {
+    background: var(--hover-color);
+    transform: translateY(-3px);
+
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
+}
+
 
 /* SKills */
 
